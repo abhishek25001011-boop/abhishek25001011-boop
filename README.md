@@ -1,165 +1,172 @@
-# 👋 Hi, I'm Abhishek Kumar
+# Abhishek Kumar
 
-### 🤖 AI & Software Developer | 💻 CS @ KIET | 🚀 Open Source Enthusiast
+### AI & Software Developer · CS @ KIET
 
-I build practical **AI-powered software, intelligent systems, and real-world applications**.
+> Building practical AI-powered software, intelligent systems, and real-world solutions.
 
-Currently focused on **AI Engineering, Machine Learning, Software Development, DSA, and Open Source**.
-
----
-
-## 🧑‍💻 About Me
-
-I'm a **B.Tech CS student at KIET Group of Institutions** who enjoys turning ideas into working software.
-
-My interests span across **AI/ML, Computer Vision, Generative AI, Cybersecurity, Software Engineering, IoT, and Open Source**.
-
-- 🤖 Exploring **AI Engineering & Machine Learning**
-- 💻 Building practical **software and AI applications**
-- 👁️ Working with **Computer Vision & intelligent systems**
-- 🔐 Exploring **Cybersecurity & threat detection**
-- 🔌 Building **IoT & ESP32-based systems**
-- 🌱 Learning through **projects, hackathons, and open source**
+[![GitHub](https://img.shields.io/badge/GitHub-abhishek25001011--boop-181717?style=flat-square&logo=github)](https://github.com/abhishek25001011-boop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Kumar-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhishek-kumar-b1b598381/)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Active-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://github.com/abhishek25001011-boop)
 
 ---
 
-## 🚀 Featured Projects
+## About Me
+
+I'm a **B.Tech CS student at KIET Group of Institutions** focused on **AI Engineering and Software Development**.
+
+I learn by building — developing AI applications, computer-vision systems, cybersecurity tools, web platforms, and IoT solutions around practical problems.
+
+**Core interests:**  
+`AI Engineering` · `Machine Learning` · `Computer Vision` · `Generative AI` · `Software Engineering` · `DSA` · `Open Source`
+
+---
+
+## Featured Projects
 
 ### 🤖 PortfolioPilot AI
 
-**AI-powered portfolio builder that turns a natural-language description into a personalized, recruiter-ready portfolio.**
+AI-powered portfolio builder that transforms a natural-language description into a personalized, recruiter-ready portfolio.
 
-**Tech:** `React` `TypeScript` `Vite` `Python` `FastAPI` `Ollama` `Qwen Coder`
+**Stack:** `React` `TypeScript` `Vite` `Python` `FastAPI` `Ollama` `Qwen Coder`
 
-🔗 [View Repository](https://github.com/abhishek25001011-boop/PortfolioPilot-AI)
+[View Repository →](https://github.com/abhishek25001011-boop/PortfolioPilot-AI)
 
 ---
 
 ### 🛡️ ANTaDrishti
 
-**AI-powered Public Safety Intelligence System using Computer Vision for intelligent surveillance and real-time safety alerts.**
+AI-powered public safety intelligence system using computer vision for intelligent surveillance and real-time safety detection.
 
-**Capabilities:**
-- Fight & violence detection
-- Person fall / medical emergency detection
-- Unattended bag detection
-- Child-left-unattended detection
-- Crowd panic & stampede risk detection
-- Suspicious object detection
+**Capabilities:** Fight & violence detection · Fall / medical emergency detection · Unattended bag detection · Child safety detection · Crowd panic detection · Suspicious object detection
 
-**Tech:** `Python` `OpenCV` `YOLO` `Streamlit` `SQLite`
+**Stack:** `Python` `OpenCV` `YOLO` `Streamlit` `SQLite`
 
-🔗 [View Repository](https://github.com/abhishek25001011-boop/AntaDrishti)
+[View Repository →](https://github.com/abhishek25001011-boop/AntaDrishti)
 
 ---
 
 ### 🔐 Obsidian-AI
 
-**AI-powered phishing detection platform for real-time URL analysis and intelligent web threat detection.**
+AI-powered phishing detection platform for real-time URL analysis and intelligent web-threat detection.
 
-**Tech:** `JavaScript` `Python` `Chrome Extension` `AI` `Cybersecurity`
+**Stack:** `JavaScript` `Python` `Chrome Extension` `AI` `Cybersecurity`
 
-🔗 [View Repository](https://github.com/abhishek25001011-boop/Obsidian-AI)
+[View Repository →](https://github.com/abhishek25001011-boop/Obsidian-AI)
 
 ---
 
 ### 🏫 MessIQ
 
-**AI-powered Smart Hostel & Mess Management Platform designed to simplify hostel and mess management workflows.**
+Smart hostel and mess management platform designed to simplify digital workflows for hostel and mess operations.
 
-**Tech:** `TypeScript` `React` `Web Technologies`
+**Stack:** `TypeScript` `React` `Web Technologies`
 
-🔗 [View Repository](https://github.com/abhishek25001011-boop/MessIQ)
+[View Repository →](https://github.com/abhishek25001011-boop/MessIQ)
 
 ---
 
 ### 🔥 IoT Smart Fire Detection System
 
-**ESP32-based smart fire detection system using gas and flame sensors with multi-level alert mechanisms.**
+ESP32-based fire and gas monitoring system using sensors and multi-level alert mechanisms.
 
-**Tech:** `ESP32` `Arduino` `MQ2` `Flame Sensor` `Blynk`
+**Stack:** `ESP32` `Arduino` `MQ2` `Flame Sensor` `Blynk`
 
-🔗 [View Repository](https://github.com/abhishek25001011-boop/IoT-Smart-Fire-Detection-and-Multi-Level-Alert-System)
+[View Repository →](https://github.com/abhishek25001011-boop/IoT-Smart-Fire-Detection-and-Multi-Level-Alert-System)
 
 ---
 
 ### 🗑️ ESP32 Smart Dustbin
 
-**Touchless smart dustbin using ultrasonic sensing, servo control, and audio feedback.**
+Touchless smart dustbin using ultrasonic sensing, servo control, and automated operation.
 
-**Tech:** `ESP32` `HC-SR04` `SG90 Servo` `C++`
+**Stack:** `ESP32` `C++` `HC-SR04` `SG90 Servo`
 
-🔗 [View Repository](https://github.com/abhishek25001011-boop/ESP32-Smart-Dustbin)
+[View Repository →](https://github.com/abhishek25001011-boop/ESP32-Smart-Dustbin)
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Stack
 
 ### Languages
 
-`C` `C++` `Python` `JavaScript` `TypeScript` `SQL`
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### AI / Machine Learning
+### AI & Machine Learning
 
-`Machine Learning` `Computer Vision` `OpenCV` `YOLO` `Generative AI` `Ollama`
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-412991?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 ### Web & Backend
 
-`React` `Vite` `FastAPI` `HTML` `CSS`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Developer Tools
+### Tools & Platforms
 
-`Git` `GitHub` `VS Code`
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ### IoT & Embedded
 
-`Arduino` `ESP32` `MQ Sensors` `Blynk`
+`Arduino` · `ESP32` · `MQ Sensors` · `Blynk` · `Embedded Systems`
 
 ### Security
 
-`Cybersecurity` `Phishing Detection` `URL Analysis`
+`Cybersecurity` · `Phishing Detection` · `URL Analysis`
 
 ---
 
-## 📚 Currently Learning
+## Current Focus
 
-- 🤖 AI Engineering
-- 🧠 Machine Learning
-- ✨ Generative AI
-- 👁️ Computer Vision
-- 💻 Data Structures & Algorithms
-- 🏗️ Software Engineering
-- 🌱 Open Source Development
-
----
-
-## 🎯 What I'm Building
-
-I'm interested in building systems at the intersection of:
-
-**AI + Software Engineering + Real-World Problem Solving**
-
-From intelligent surveillance and cybersecurity to developer tools and IoT systems, I enjoy working on projects where technology can solve practical problems.
+- Building practical AI-powered applications
+- Learning AI Engineering and Machine Learning
+- Exploring Computer Vision and Generative AI
+- Strengthening Data Structures & Algorithms
+- Improving Software Engineering practices
+- Contributing to Open Source
 
 ---
 
-## 🌱 Open Source
+## What I Build
 
-I'm actively exploring **open-source development, collaborative projects, hackathons, and building in public**.
-
-I believe the best way to learn software engineering is to:
-
-**Build → Contribute → Review → Ship**
-
----
-
-## 🤝 Connect With Me
-
-- 💻 [GitHub](https://github.com/abhishek25001011-boop)
-- 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-b1b598381/)
-- 📧 [Email](mailto:abhishek.25001011@kiet.edu)
-- 📧 [Email](mailto:kabhi31.2006@gmail.com)
+| Area | Focus |
+|---|---|
+| **AI Engineering** | AI-powered applications and intelligent workflows |
+| **Computer Vision** | Safety, monitoring, detection, and automation |
+| **Software Engineering** | Practical full-stack and backend applications |
+| **Cybersecurity** | Phishing and web-threat detection |
+| **IoT** | Sensor-driven automation and embedded systems |
 
 ---
 
-### ⚡ Build. Learn. Ship. Repeat.
+## Open Source & Hackathons
+
+I'm interested in **open-source collaboration, hackathons, AI projects, and building in public**.
+
+My approach is simple:
+
+**Build → Learn → Contribute → Improve → Ship**
+
+---
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhishek25001011-boop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-b1b598381/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishek.25001011@kiet.edu)
+
+---
+
+### Building practical technology with AI, software, and curiosity.
