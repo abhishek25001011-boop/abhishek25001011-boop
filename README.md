@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=AI+%26+Software+Developer;B.Tech+CSE+Student+%40+KIET;Building+AI-Powered+Applications;Computer+Vision+%26+Generative+AI;Open-Source+Contributor" alt="Animated typing text" />
 
-**AI & Software Developer | B.Tech CSE @ KIET**
+**AI & Software Developer | B.Tech CS @ KIET**
 
 Building practical AI-powered software, intelligent systems, and real-world solutions.
 
