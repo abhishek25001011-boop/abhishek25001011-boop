@@ -1,172 +1,150 @@
-# Abhishek Kumar
+ <div align="center">
 
-### AI & Software Developer · CS @ KIET
+# Hi, I'm Abhishek Kumar 👋
 
-> Building practical AI-powered software, intelligent systems, and real-world solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=AI+%26+Software+Developer;B.Tech+CSE+Student+%40+KIET;Building+AI-Powered+Applications;Computer+Vision+%26+Generative+AI;Open-Source+Contributor" alt="Animated typing text" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-abhishek25001011--boop-181717?style=flat-square&logo=github)](https://github.com/abhishek25001011-boop)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Kumar-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhishek-kumar-b1b598381/)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Active-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://github.com/abhishek25001011-boop)
+**AI & Software Developer | B.Tech CSE @ KIET**
 
----
+Building practical AI-powered software, intelligent systems, and real-world solutions.
 
-## About Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/abhishek25001011-boop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-b1b598381/)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-2ea44f?style=for-the-badge\&logo=opensourceinitiative\&logoColor=white)](https://github.com/abhishek25001011-boop)
 
-I'm a **B.Tech CS student at KIET Group of Institutions** focused on **AI Engineering and Software Development**.
-
-I learn by building — developing AI applications, computer-vision systems, cybersecurity tools, web platforms, and IoT solutions around practical problems.
-
-**Core interests:**  
-`AI Engineering` · `Machine Learning` · `Computer Vision` · `Generative AI` · `Software Engineering` · `DSA` · `Open Source`
+</div>
 
 ---
 
-## Featured Projects
+## 👨‍💻 About Me
 
-### 🤖 PortfolioPilot AI
+I'm a Computer Science student at **KIET Group of Institutions**, interested in building practical applications that solve real-world problems.
 
-AI-powered portfolio builder that transforms a natural-language description into a personalized, recruiter-ready portfolio.
+* 🤖 Exploring AI Engineering, Machine Learning, and Generative AI.
+* 👁️ Building computer vision and intelligent detection systems.
+* 💻 Developing software using Python, C++, JavaScript, and TypeScript.
+* 🔐 Exploring cybersecurity and phishing detection.
+* 🔌 Experimenting with IoT, ESP32, and embedded systems.
+* 🌱 Learning by building projects and contributing to open source.
 
-**Stack:** `React` `TypeScript` `Vite` `Python` `FastAPI` `Ollama` `Qwen Coder`
+## 🚀 Featured Projects
 
-[View Repository →](https://github.com/abhishek25001011-boop/PortfolioPilot-AI)
+### 🇮🇳 BharatSetu
 
----
+An AI-focused project centered on improving access to public services in India.
+
+**Focus:** AI · Software Development · Digital Public Services
+
+[**View Repository →**](https://github.com/abhishek25001011-boop/BharatSetu)
 
 ### 🛡️ ANTaDrishti
 
-AI-powered public safety intelligence system using computer vision for intelligent surveillance and real-time safety detection.
+An AI-powered public safety intelligence system designed to analyze surveillance footage and identify potential safety incidents.
 
-**Capabilities:** Fight & violence detection · Fall / medical emergency detection · Unattended bag detection · Child safety detection · Crowd panic detection · Suspicious object detection
+**Key capabilities:** Violence Detection · Fall Detection · Unattended Bag Detection · Crowd Panic Detection
 
-**Stack:** `Python` `OpenCV` `YOLO` `Streamlit` `SQLite`
+**Tech:** Python · OpenCV · YOLO · Streamlit · SQLite
 
-[View Repository →](https://github.com/abhishek25001011-boop/AntaDrishti)
-
----
+[**View Repository →**](https://github.com/abhishek25001011-boop/AntaDrishti)
 
 ### 🔐 Obsidian-AI
 
-AI-powered phishing detection platform for real-time URL analysis and intelligent web-threat detection.
+A phishing detection project focused on URL analysis and identifying potential web threats.
 
-**Stack:** `JavaScript` `Python` `Chrome Extension` `AI` `Cybersecurity`
+**Focus:** Cybersecurity · Phishing Detection · URL Analysis
 
-[View Repository →](https://github.com/abhishek25001011-boop/Obsidian-AI)
+[**View Repository →**](https://github.com/abhishek25001011-boop/Obsidian-AI)
 
----
+### 🍽️ MessIQ
 
-### 🏫 MessIQ
+A smart hostel and mess management platform designed to simplify hostel operations and digital workflows.
 
-Smart hostel and mess management platform designed to simplify digital workflows for hostel and mess operations.
+**Tech:** TypeScript · React · Web Technologies
 
-**Stack:** `TypeScript` `React` `Web Technologies`
-
-[View Repository →](https://github.com/abhishek25001011-boop/MessIQ)
-
----
+[**View Repository →**](https://github.com/abhishek25001011-boop/MessIQ)
 
 ### 🔥 IoT Smart Fire Detection System
 
-ESP32-based fire and gas monitoring system using sensors and multi-level alert mechanisms.
+An ESP32-based fire and gas monitoring prototype using sensors and multi-level alert mechanisms.
 
-**Stack:** `ESP32` `Arduino` `MQ2` `Flame Sensor` `Blynk`
+**Tech:** ESP32 · Arduino · MQ Gas Sensor · Flame Sensor
 
-[View Repository →](https://github.com/abhishek25001011-boop/IoT-Smart-Fire-Detection-and-Multi-Level-Alert-System)
+## 🧰 Technical Stack
 
----
+**Languages**
 
-### 🗑️ ESP32 Smart Dustbin
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
-Touchless smart dustbin using ultrasonic sensing, servo control, and automated operation.
+**AI & Computer Vision**
 
-**Stack:** `ESP32` `C++` `HC-SR04` `SG90 Servo`
-
-[View Repository →](https://github.com/abhishek25001011-boop/ESP32-Smart-Dustbin)
-
----
-
-## Technical Stack
-
-### Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-### AI & Machine Learning
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-412991?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7B61FF?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square\&logo=ollama\&logoColor=white)
 
-### Web & Backend
+**Web & Backend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 
-### Tools & Platforms
+**Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square\&logo=arduino\&logoColor=white)
 
-### IoT & Embedded
+## 📚 Currently Learning
 
-`Arduino` · `ESP32` · `MQ Sensors` · `Blynk` · `Embedded Systems`
+* AI Engineering and practical LLM applications
+* Machine Learning and Computer Vision
+* Data Structures and Algorithms
+* Full-Stack Development and API integration
+* Software engineering practices and open-source workflows
 
-### Security
+## 🎯 Goals
 
-`Cybersecurity` · `Phishing Detection` · `URL Analysis`
+* Build useful, production-minded AI applications.
+* Strengthen DSA and problem-solving fundamentals.
+* Improve code quality, testing, and documentation.
+* Contribute meaningful fixes and features to open-source projects.
+* Develop projects that demonstrate real engineering skills.
 
----
+## 📊 GitHub Statistics
 
-## Current Focus
+<div align="center">
 
-- Building practical AI-powered applications
-- Learning AI Engineering and Machine Learning
-- Exploring Computer Vision and Generative AI
-- Strengthening Data Structures & Algorithms
-- Improving Software Engineering practices
-- Contributing to Open Source
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishek25001011-boop&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek25001011-boop&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
 
-## What I Build
+<img src="https://streak-stats.demolab.com?user=abhishek25001011-boop&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 
-| Area | Focus |
-|---|---|
-| **AI Engineering** | AI-powered applications and intelligent workflows |
-| **Computer Vision** | Safety, monitoring, detection, and automation |
-| **Software Engineering** | Practical full-stack and backend applications |
-| **Cybersecurity** | Phishing and web-threat detection |
-| **IoT** | Sensor-driven automation and embedded systems |
+</div>
 
----
+## 🤝 Let's Connect
 
-## Open Source & Hackathons
+I'm interested in collaborating on practical AI projects, software development, and open-source initiatives.
 
-I'm interested in **open-source collaboration, hackathons, AI projects, and building in public**.
+* 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-b1b598381/)
+* 🧑‍💻 [GitHub Repositories](https://github.com/abhishek25001011-boop?tab=repositories)
 
-My approach is simple:
+<div align="center">
 
 **Build → Learn → Contribute → Improve → Ship**
 
----
+*Building practical technology with AI, software, and curiosity.*
 
-## Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhishek25001011-boop)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-b1b598381/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishek.25001011@kiet.edu)
-
----
-
-### Building practical technology with AI, software, and curiosity.
+</div>
